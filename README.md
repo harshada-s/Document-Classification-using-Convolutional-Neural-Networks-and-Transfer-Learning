@@ -1,4 +1,4 @@
-# Document-CLassification-using-CNN-and-Transfer-Learning
+# Document-Classification-using-CNN-and-Transfer-Learning
 
 Document classification is a task that is performed in many domains on a regular basis,
 especially in administration. This also constitutes classifying digital images of various
