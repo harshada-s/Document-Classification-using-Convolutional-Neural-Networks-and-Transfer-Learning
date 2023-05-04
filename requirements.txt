@@ -1,5 +1,4 @@
 pathlib
-os
 pandas
 numpy
 tensorflow
