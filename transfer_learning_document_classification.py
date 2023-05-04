@@ -12,7 +12,7 @@ Original file is located at
 
 from keras.preprocessing.image import ImageDataGenerator
 
-!pip install opendatasets
+pip install opendatasets
 
 import opendatasets as op
 
