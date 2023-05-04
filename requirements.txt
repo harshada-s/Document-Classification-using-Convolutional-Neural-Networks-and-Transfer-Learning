@@ -1,0 +1,13 @@
+pathlib
+os
+pandas
+numpy
+tensorflow
+string
+nltk
+cv2
+matplotlib.pyplot
+tensorflow.keras.utils
+tensorflow.keras.metrics
+keras.preprocessing.image
+opencv-python
