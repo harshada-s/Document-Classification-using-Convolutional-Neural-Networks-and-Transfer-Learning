@@ -1,10 +1,2 @@
-pathlib
-pandas
-numpy
-tensorflow
-nltk
-matplotlib
-tensorflow
-tensorflow
-keras
 opencv-python
+opendatasets
