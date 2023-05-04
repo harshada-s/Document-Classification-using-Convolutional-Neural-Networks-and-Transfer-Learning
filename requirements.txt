@@ -1,4 +1,4 @@
 opencv-python
 opendatasets
-tensorflow
+tensorflow-cpu
 keras
