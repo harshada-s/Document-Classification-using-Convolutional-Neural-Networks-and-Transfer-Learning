@@ -3,9 +3,8 @@ pandas
 numpy
 tensorflow
 nltk
-cv2
-matplotlib.pyplot
-tensorflow.keras.utils
-tensorflow.keras.metrics
-keras.preprocessing.image
+matplotlib
+tensorflow
+tensorflow
+keras
 opencv-python
