@@ -1,4 +1,3 @@
 opencv-python
 opendatasets
 keras
-tensorflow
